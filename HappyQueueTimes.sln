@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer", "Consumer\Consum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Producer", "Producer\Producer\Producer.csproj", "{CD9E38C2-E400-4D91-BD61-35FBD763E0E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Items", "ClassLibrary1\Items.csproj", "{E78B2855-5605-4CC2-8432-9CA590D72740}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Items", "Items\Items.csproj", "{E78B2855-5605-4CC2-8432-9CA590D72740}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
